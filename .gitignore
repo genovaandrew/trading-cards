@@ -1,0 +1,5 @@
+env/
+.vscode/
+.terraform/
+terraform.tfstate*
+docker-compose.yaml
